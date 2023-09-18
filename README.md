@@ -15,7 +15,9 @@ This Bash script is designed to simulate mouse movements and interactions to pre
 
 3. Make the script executable (if not already):
    ```bash
-   chmod +x mouse_movement_simulation.sh
+   chmod +x superafk-bashbot.sh
+
+   ./mouse_movement_simulation.sh
 
 ## Configuration
 
