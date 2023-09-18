@@ -17,7 +17,7 @@ This Bash script is designed to simulate mouse movements and interactions to pre
    ```bash
    chmod +x superafk-bashbot.sh
 
-   ./mouse_movement_simulation.sh
+  
 
 ## Configuration
 
